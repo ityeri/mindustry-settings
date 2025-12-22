@@ -1,0 +1,7 @@
+cache/
+previews/
+saves/
+settings_backups/
+.idea/
+last_log.txt
+*.log
