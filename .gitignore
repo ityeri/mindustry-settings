@@ -9,3 +9,4 @@ crashes/
 last_log.txt
 *.log
 server_list.json
+settings_backup.bin
