@@ -2,6 +2,10 @@ cache/
 previews/
 saves/
 settings_backups/
+previews/
+crashes/
+
 .idea/
 last_log.txt
 *.log
+server_list.json
